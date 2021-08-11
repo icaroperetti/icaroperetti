@@ -5,4 +5,6 @@
 <a href="https://www.linkedin.com/in/icaro-peretti/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
 
-![BadgePhp](https://img.shields.io/badge/php-0078D6?style=flat&logo=php&logoColor=white) ![BadgeJs](https://img.shields.io/badge/javascript-0078D6?style=flat&logo=javascript&logoColor=yellow) ![BadgeRect](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![BadgePhp](https://img.shields.io/badge/php-0078D6?style=flat&logo=php&logoColor=white) 
+![BadgeJs](https://img.shields.io/badge/-Js-61DAFB?logo=JS&logoColor=white&style=flat) 
+![BadgeReact](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
