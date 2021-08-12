@@ -7,4 +7,4 @@
 
 ![BadgePhp](https://img.shields.io/badge/-PHP-61DAFB?logo=php&logoColor=white&style=flat) 
 ![BadgeJs](https://img.shields.io/badge/-Javascript-61DAFB?logo=javascript&logoColor=white&style=flat) 
-![BadgeReact](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![BadgeReact](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
