@@ -18,5 +18,6 @@
 
 ![BadgeJs](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![BadgeReact](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![BadgeElectron](https://img.shields.io/badge/Electron-14354C?style=for-the-badge&logo=electron&logoColor=white)
 ![BadgePython](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
