@@ -20,3 +20,5 @@
 ![BadgeTs](https://img.shields.io/badge/Typescript-14354C?style=for-the-badge&logo=typescript&logoColor=white) 
 ![BadgeReact](https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=white)
 ![BadgeNode](https://img.shields.io/badge/Node.Js-14354C?style=for-the-badge&logo=node.js&logoColor=white)
+</br> 
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1894?logoColor=white%26project=%26recentMS=0%26showProject=false)
