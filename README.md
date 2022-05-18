@@ -1,10 +1,6 @@
 ### Hi there 👋
 
- <div>
-  <a href="https://github.com/icaroperetti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaroperetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroperetti&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
-</div>
+
 
 
  <a href="https://www.linkedin.com/in/icaro-peretti/" target="_blank" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,4 +13,4 @@
 ![BadgeNode](https://img.shields.io/badge/Node.Js-14354C?style=for-the-badge&logo=node.js&logoColor=white)
 </br>
 </br> 
-![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/1894?logoColor=white%26project=%26recentMS=0%26showProject=false)
+
