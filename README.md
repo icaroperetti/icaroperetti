@@ -17,6 +17,7 @@
 ![BadgeTs](https://img.shields.io/badge/Typescript-14354C?style=for-the-badge&logo=typescript&logoColor=white) 
 ![BadgeReact](https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=white)
 ![BadgeNode](https://img.shields.io/badge/Node.Js-14354C?style=for-the-badge&logo=node.js&logoColor=white)
+ ![BadgePython](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 </br>
 </br> 
 
