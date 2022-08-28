@@ -7,6 +7,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroperetti&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 </div>
 
+
+
  ![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/1894?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
  <a href="https://www.linkedin.com/in/icaro-peretti/" target="_blank" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -19,5 +21,8 @@
 ![BadgeNode](https://img.shields.io/badge/Node.Js-14354C?style=for-the-badge&logo=node.js&logoColor=white)
  ![BadgePython](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 </br>
-</br> 
+</br>
+![BadgePostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![BadgeSqlServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
 
