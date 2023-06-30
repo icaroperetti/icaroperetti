@@ -9,7 +9,7 @@
 
 
 
- ![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/1894?logoColor=white%26project=%26recentMS=0%26showProject=false)
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D1894%26project%3D%26in%3D0)](https://codetime.dev)
 
 
  <a href="https://www.linkedin.com/in/icaro-peretti/" target="_blank" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
