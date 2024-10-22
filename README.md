@@ -1,5 +1,5 @@
 
-
+<img alt="You got rick rolled." src="https://github.com/icaroperetti/icaroperetti/blob/main/rolled.gif?raw=true" width="50%">
 
  <div>
   <a href="https://github.com/icaroperetti">
