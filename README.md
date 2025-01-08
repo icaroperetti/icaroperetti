@@ -1,9 +1,14 @@
-<div>
-  <a href="https://github.com/icaroperetti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaroperetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroperetti&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
-</div>
 
+## My name is Icaro Peretti
+
+- 👩‍💻 Software Developer 
+- 🎓 Bachelor's degree in Computer Science
+- 🌐 Passionate about web development
+
+<div align="left">
+  <img width="30%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroperetti&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+ </div>
+ 
 
  <a href="https://www.linkedin.com/in/icaro-peretti/" target="_blank" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="https://www.instagram.com/icaroperetti/" target="_blank" > <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
