@@ -15,6 +15,7 @@
 ![BadgeNode](https://img.shields.io/badge/Node.Js-14354C?style=for-the-badge&logo=node.js&logoColor=white)
 ![BadgePython](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![BadgeBun](https://img.shields.io/badge/Bun-14354C?style=for-the-badge&logo=bun&logoColor=white)
+![BadgeBun](https://img.shields.io/badge/TailwindCSS-14354C?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </br>
 
