@@ -1,7 +1,4 @@
-
-<img alt="You got rick rolled." src="https://github.com/icaroperetti/icaroperetti/blob/main/rolled.gif?raw=true" width="50%">
-
- <div>
+<div>
   <a href="https://github.com/icaroperetti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaroperetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroperetti&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
@@ -17,6 +14,7 @@
 ![BadgeReact](https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=white)
 ![BadgeNode](https://img.shields.io/badge/Node.Js-14354C?style=for-the-badge&logo=node.js&logoColor=white)
 ![BadgePython](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![BadgeBun](https://img.shields.io/badge/Bun-14354C?style=for-the-badge&logo=bun&logoColor=white)
 
 </br>
 
